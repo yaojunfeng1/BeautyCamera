@@ -1,0 +1,3 @@
+rootProject.name='GpuImageDemo'
+include ':app'
+include ':library'
